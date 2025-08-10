@@ -1,2 +1,4 @@
 Migrations
 Database/TodoApp.db
+bin/
+obj/

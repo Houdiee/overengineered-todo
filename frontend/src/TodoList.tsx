@@ -82,7 +82,7 @@ function TodoList() {
       >
         Log Out
       </Button>
-      <Flex justify="center" className="!mt-10">
+      <Flex justify="center" className="!mt-5">
         <Flex vertical align="center" className="w-2/7">
           <Title>{user?.username}'s Todo List</Title>
           <Flex className="w-full gap-2 !mb-2">
