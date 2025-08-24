@@ -3469,7 +3469,7 @@
         "net9.0"
       ],
       "sources": {
-        "/nix/store/sp0n8da2n3735qyl70g1l907ps3pnzhq-dotnet-sdk-9.0.108/share/dotnet/library-packs": {},
+        "/nix/store/w6dcaw406jyl7phyklq0a1vdkl1f5sl9-dotnet-sdk-9.0.109/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3532,7 +3532,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/nix/store/sp0n8da2n3735qyl70g1l907ps3pnzhq-dotnet-sdk-9.0.108/share/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/w6dcaw406jyl7phyklq0a1vdkl1f5sl9-dotnet-sdk-9.0.109/share/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
